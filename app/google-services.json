@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "974415733719",
+    "project_id": "book-app-468b2",
+    "storage_bucket": "book-app-468b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974415733719:android:071636030c4407e7c86192",
+        "android_client_info": {
+          "package_name": "com.example.appdoctruyen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974415733719-3qsc9oc98qh7i5jaqbsa2m0hu6695gno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3sHI-GJk2IGoRVkmnFnw843-YkANSesw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974415733719-3qsc9oc98qh7i5jaqbsa2m0hu6695gno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
