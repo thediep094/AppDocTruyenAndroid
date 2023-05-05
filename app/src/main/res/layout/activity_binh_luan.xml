@@ -4,8 +4,9 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="#131313"
+    android:background="#2B2A2A"
     tools:context=".BinhLuanActivity">
+
     <LinearLayout
         android:id="@+id/linearLayout2"
         android:layout_width="match_parent"
@@ -28,6 +29,7 @@
         android:id="@+id/recyclerView1"
         android:layout_width="409dp"
         android:layout_height="0dp"
+        android:padding="20dp"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout3"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout2"
         tools:layout_editor_absoluteX="1dp">
@@ -48,10 +50,10 @@
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:ems="10"
-            android:inputType="textPersonName"
             android:hint="Comment"
-            android:textColorHint="@color/white"
-            android:textColor="#FFFFFF" />
+            android:inputType="textPersonName"
+            android:textColor="#FFFFFF"
+            android:textColorHint="@color/white" />
 
         <Button
             android:id="@+id/buttonSubmit"
